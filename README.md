@@ -42,3 +42,6 @@ Developed an embedded system for automobiles that automatically detects rain and
 - Automotive use-case implementation
 - Multi-mode system (manual + automatic)
 - Integration of multiple subsystems (rain, temperature, motor control)
+
+## Simulation
+The system circuit is designed and tested using SimulIDE. The simulation file is available as 'rain_system.simulide'.
